@@ -1,0 +1,15 @@
+{
+  "name": "cucumber-gherkin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "test": "cucumber-js"
+},
+  "keywords": [],
+  "author": "Aqsa Manzooe",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.0.0"
+  }
+}
