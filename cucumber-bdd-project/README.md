@@ -7,6 +7,12 @@ This project uses [Cucumber.js](https://github.com/cucumber/cucumber-js) and [Gh
 
 ## 📁 Project Structure
 
+project-root/
+├── features/
+│ ├── step_definitions/
+│ │ └── steps.js
+│ └── login.feature
+├── package.json
 
 ---
 
